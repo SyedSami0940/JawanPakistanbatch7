@@ -1,14 +1,14 @@
 import 'dart:io';
 
 void main() {
-  String Introduce = "AoA, My name is Hafiz shahveez ullah.";
+  String Introduce = "";
   var qualifi = 'Last Degree Info';
 
-  String name = "Hafiz Shahveez ullah";
+  String name = "";
   int age = 28;
   String bcom = 'B.COM';
 
-  var con = 'B.COM continue';
+  var con = '';
   print(
       "Introduction: $Introduce. \n Data: $qualifi. \n Name: $name. \n Age: $age. \n Class: $bcom. \n Study : $con.");
 }
